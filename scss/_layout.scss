@@ -1,0 +1,82 @@
+.container {
+    width: 1296px;
+    margin: 0 auto;
+}
+.text-title {
+    display: block;
+    text-align: end;
+}
+.tac {
+    text-align: center;
+}
+
+//display
+.d-flex {
+    display: flex;
+  }
+.aic {
+    align-items: center;
+}
+.jcfe {
+    justify-content: flex-end;
+}
+.jcsb {
+    justify-content: space-between;
+}
+.flex-wrap {
+    flex-wrap:wrap;
+}
+
+//margin
+.mb-16 {
+    margin-bottom: 16px;
+}
+.mr-24 {
+    margin-right: 24px;
+}
+.mb-36 {
+    margin-bottom: 36px;
+}
+.mt-76 {
+    margin-top: 76px;
+}
+
+//padding
+.p-16 {
+    padding: 16px;
+}
+.pt-32 {
+    padding-top: 32px;
+}
+.pt-28 {
+    padding-top: 28px;
+}
+.pt-36 {
+    padding-top: 36px;
+}
+.py-40 {
+    padding: 40px 0;
+}
+.py-96 {
+    padding: 96px 0;
+}
+.py-160 {
+    padding: 160px 0;
+}
+.py-206 {
+    padding: 206px 0;
+}
+
+//gap
+.g-4 {
+    gap: 4px;
+}
+.g-16 {
+    gap:16px;
+}
+.g-20 {
+    gap:20px;
+}
+.g-24 {
+    gap: 24px;
+}

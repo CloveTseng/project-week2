@@ -1,0 +1,40 @@
+//font-size
+.h1 {
+    font-size: 128px;
+  }
+  
+  .h2 {
+    font-size: 64px;
+  }
+  
+  .fs-1 {
+    font-size: 32px;
+  }
+  
+  .fs-2 {
+    font-size: 24px;
+  }
+  .fs-3 {
+    font-size: 20px;
+  }
+
+//color
+$primary-color: #00FFA3;
+$secondary-color: #D1D1D1;
+$text-color: #15161D;
+$border-color: #E3E3E3;
+$white-color: #fff ;
+$dark-color: #000 ;
+
+.white-color {
+  color: $white-color;
+}
+.dark-color {
+  color: $dark-color;
+}
+.text-primary {
+  color: $primary-color;
+}
+.text-color {
+  color: $text-color;
+}
